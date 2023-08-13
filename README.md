@@ -6,4 +6,4 @@ For example, the factorial of 3 represents the multiplication of numbers 3, 2, 1
 # Fibonacci series
 The Fibonacci sequence is a type series where each number is the sum of the two that precede it.
 It starts from 0 and 1 usually.
-# Sum of a number
+
